@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+#hinh-nen{
+    width: 100%;
+    margin-top: 0%;
+}
+#tua-de{
+    color:#feb331;
+    position:absolute;
+    top: 70%;
+    left: 34%;
+    font-size: 100px;
+
+}
+#lich-chieu{
+    position: absolute;
+    color: #e9e7df;
+    top: 85%;
+    left: 45%;
+    font-size: 39px;
+}
+#quang-cao{
+    position: absolute;
+    color: white;
+    top: 91%;
+    left: 42.5%;
+}
